@@ -1,0 +1,7 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  myfirstscirpt.sh
+    4  myfirstscrip.sh
+    5  ls -l
+    6  myfirstscrip.sh
+    7  history > history_20190916a.txt
