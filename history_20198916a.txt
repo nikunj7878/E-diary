@@ -1,0 +1,78 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  cd
+    5  whoiam
+    6  ls
+    7  ls-l
+    8  ls -l
+    9  whoami
+   10  man ls
+   11  -a
+   12  ls-a
+   13  ls -a
+   14  ls .a
+   15  ls -a
+   16  sh
+   17  ls -a
+   18  ls -al
+   19  pwd
+   20  cd .
+   21  pwd
+   22  cd ..
+   23  pwd
+   24  ls -la
+   25  ls-l
+   26  ls -l
+   27  pwd
+   28  cd
+   29  cd ..
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  cd ..
+   34  pwd
+   35  ls -la
+   36  ls -l
+   37  cd ~
+   38  cd ?
+   39  cd /
+   40  pwd
+   41  cd ~
+   42  pwd
+   43  cd ?
+   44  cd /
+   45  cd home/
+   46  cd user/
+   47  cd./home/
+   48  cd ./home/
+   49  cd /
+   50  pwd
+   51  cd /home/
+   52  cd /home/user/
+   53  cd /
+   54  pwd
+   55  cd
+   56  mkdir Mydirectory
+   57  ls
+   58  ls -l
+   59  cd  Mydirectory/
+   60  /mydirectory$ ls
+   61  ls
+   62  ls -l
+   63  ls -al
+   64  cd..
+   65  cd ..
+   66  pwd
+   67  rmdir Mydirectory
+   68  rmdir Mydirectoryy.
+   69  ls
+   70  cd /
+   71  mkdir mydiretory
+   72  ls
+   73  ls -l
+   74  history
+   75  cd
+   76  ls -l
+   77  cat history_20198916a.txt 
+   78  history > history_20198916a.txt 
