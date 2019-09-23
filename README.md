@@ -25,5 +25,13 @@ sta
 echo hello\tworld!
 echo "hello\tworld"
 echo "hello\vworld"
-
+!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.email vaghaninikunj24@gmail.com
+git add .
+#git commit -m "20171012_09_55"
+git commit -m $1
+git push origin master
+fi
 
