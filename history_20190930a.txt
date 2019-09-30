@@ -1,0 +1,89 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/nikunj7878/E-diary
+    4  cd
+    5  cd E-diary
+    6  ls -l
+    7  pwd
+    8  ls -l
+    9  cd works
+   10  works
+   11  mkdir works
+   12* 
+   13  cd works
+   14  ls -l
+   15  nano elementary.c
+   16  ls -l
+   17  nano elementary.c
+   18  cat elementary.cyes
+   19  gcc elementary.c
+   20  nano elementary.c
+   21  nano elementary.cyes
+   22  ls -l
+   23  mv elementary.cyes elementary.c
+   24  ls -l
+   25  gcc elementary.c
+   26  ls -l
+   27  gcc elementary.c  -o prg1
+   28  ls -l
+   29  prg1
+   30  echo $PATH
+   31  prg1
+   32  ls -l
+   33  pwd
+   34  ls -l
+   35  ./
+   36  ./prg1
+   37  pwd
+   38  /home/user/E-diary/works/prg1 
+   39  ls -l
+   40  cd..
+   41  cd ..
+   42  ls -l
+   43  ./works/prg1 
+   44  cd works/
+   45  pwd
+   46  ls -l
+   47  cat elementary.c 
+   48  gcc elementary.c 
+   49  ./a.out
+   50  cp elementary.c hello.c
+   51  ls -l
+   52  nano hello.c 
+   53  cat hello.c 
+   54  gcc hello.c 
+   55  ls -l
+   56  ./a.out
+   57  gcc hello.c  -o prg2
+   58  ls -l
+   59  nano hello.c 
+   60  gcc hello.c  -o prg2
+   61  ls -l
+   62  cat hello.c 
+   63  ./prg2
+   64  nano hello.c 
+   65  cat hello.c 
+   66  gcc hello.c  -o prg3
+   67  ls -l
+   68  nano hello.c 
+   69  cat hello.c 
+   70  gcc hello.c  -o prg3
+   71  ls -l
+   72  nano hello.c 
+   73  gcc hello.c  -o prg3
+   74  ls -l
+   75  ./prg3
+   76  nano hello.c 
+   77  gcc hello.c  -o prg4
+   78  ./prg4
+   79  ls -l
+   80  rm prg1
+   81  ls -l
+   82  ls prg*
+   83  rm prg*
+   84  ls -l
+   85  rm a.out
+   86  ls -l
+   87  cd ..
+   88  ls -l
+   89  history > history_20190930a.txt
