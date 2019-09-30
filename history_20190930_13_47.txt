@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  git clonehttps://github.com/nikunj7878/E-diary
+    5  nano REDME.md
+    6  cd E-diary
+    7  ls -l
+    8  nano REDME.md
+    9  cd E-diary
+   10  nano REDME.md
+   11  cd https://github.com/nikunj7878/E-diary
+   12  ls -l
+   13  cd hello
+   14  nano REDME.md
+   15  cd e-diary
+   16  cd
+   17* 
+   18  cd E-diary/
+   19  nano REDME.md
+   20  ls -l
+   21  history > history_20190930_13_47.txt
