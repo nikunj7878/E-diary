@@ -14,7 +14,9 @@ int main()
    return 0;
 
  float a=1.23456, b=7.89012, c=34.5678;
-  printf ("floats: %1.2f %+.0e %E \n", 1.2, 1.234, 1.23456789);
+ printf ("floats: %3.1f %8.4f %6.4f \n", a, b, c);
+ printf ("floats: %4.2f %6.3f %9.5f \n", a, b, c);
+ printf ("floats: %4.3f %4.2f %11.6f \n", a, b, c);
 
  // write cod to show:
 /*
