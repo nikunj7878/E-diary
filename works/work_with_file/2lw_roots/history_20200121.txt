@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  https://github.com/nikunj7878/E-diary
+    4  cd
+    5  rm https://github.com/nikunj7878/E-diary
+    6  ls -l
+    7  cd https://github.com/nikunj7878/E-diary
+    8  pwd
+    9  ls -l
+   10  cd works
+   11  cd https://github.com/nikunj7878/E-diary
+   12  cd E-diary
+   13  git clone https://github.com/nikunj7878/E-diary
+   14  cd E-diary/
+   15  cd works/
+   16  cd 2lw_root
+   17  cd 2lw_roots
+   18  ls =l
+   19  ls -l
+   20  cd work_with_file
+   21  cd 2lw_roots
+   22  rm work_with_file
+   23  cd..
+   24  ls -l
+   25  ramdir work_with_file
+   26  rmdir work_with_file
+   27  ls -l
+   28  rmdir cd
+   29  cd..
+   30  rm cd
+   31  rm work_with_file
+   32  ls -l
+   33  pwd
+   34  ls -l
+   35  mkdir 2lw_roots
+   36  cd 2lw_roots/
+   37  cd..
+   38  cd.
+   39  nano.2lw_roots
+   40  nano 2lw_roots.c
+   41  cat nano 2lw_roots.c
+   42  gcc nano 2lw_roots.c
+   43  gccnano 2lw_roots.c
+   44  gcc 2lw_roots.c
+   45  ./a.out 
+   46  fg
+   47  nano 2lw_roots.c
+   48  gcc 2lw_roots.c
+   49  ./a.out 
+   50  nano 2lw_roots.c
+   51  gcc 2lw_roots.c
+   52  ./a.out 
+   53  nano 2lw_roots.c
+   54  gcc 2lw_roots.c
+   55  ./a.out 
+   56  nano 2lw_roots.c
+   57  gcc 2lw_roots.c
+   58  ./a.out 
+   59  nano 2lw_roots.c
+   60  gcc 2lw_roots.c
+   61  nano 2lw_roots.c
+   62  cat nano 2lw_roots.c
+   63  gcc 2lw_roots.c
+   64  gcc code.c
+   65  gcc 2lw_roots.c -lm
+   66  gcc code.c -lm
+   67  gcc 2lw_roots.c-lm
+   68  gcc 2lw_roots.c -lm
+   69  ls -l
+   70  history > history_20200121.txt
